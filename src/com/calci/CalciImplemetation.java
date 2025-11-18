@@ -16,8 +16,8 @@ public class CalciImplemetation implements Calculater {
 
 	@Override
 	public int multiplication(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+	    int c=a*b;
+		return c;
 	}
 
 	@Override

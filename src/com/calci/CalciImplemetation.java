@@ -5,7 +5,7 @@ public class CalciImplemetation implements Calculater {
 	@Override
 	public int addition(int a, int b) {
 		// TODO Auto-generated method stub
-		return 0;
+		return a+b;
 	}
 
 	@Override

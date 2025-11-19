@@ -19,6 +19,11 @@ public class Main {
 			System.out.println("Addition:"+calci.addition(a,b));
 		}break;
 		case 2:{
+			System.out.print("Enter first number:");
+			int a=sc.nextInt();
+			System.out.print("Enter second number:");
+			int b=sc.nextInt();
+			System.out.println("Substraction:"+calci.subtraction(a,b));
 		
 		}break;
 		case 3:{

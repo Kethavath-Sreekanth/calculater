@@ -27,6 +27,11 @@ public class Main {
 		
 		}break;
 		case 3:{
+			System.out.print("Enter first number:");
+			int a=sc.nextInt();
+			System.out.print("Enter second number:");
+			int b=sc.nextInt();
+			System.out.println("multiplaction:"+calci.multiplication(a,b));
 
 		}
 		case 4:{

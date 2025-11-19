@@ -22,8 +22,8 @@ public class CalciImplemetation implements Calculater {
 
 	@Override
 	public int division(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		 int c=a/b;
+		return c;
 	}
 
 }

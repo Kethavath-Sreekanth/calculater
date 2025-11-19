@@ -26,7 +26,8 @@ public class Main {
 			System.out.println("Substraction:"+calci.subtraction(a,b));
 		
 		}break;
-		case 3:{
+		case 3:
+		{
 			System.out.print("Enter first number:");
 			int a=sc.nextInt();
 			System.out.print("Enter second number:");
@@ -34,6 +35,7 @@ public class Main {
 			System.out.println("multiplaction:"+calci.multiplication(a,b));
 
 		}
+		break;
 		case 4:{
 			System.out.print("Enter first number:");
 			int a=sc.nextInt();
